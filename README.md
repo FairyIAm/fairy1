@@ -68,4 +68,4 @@ i never forget
         // JavaScript for handling chat functionality
         function sendMessage() {
             var messageInput = document.getElementById("message-input");
-            var message = messageInput.
+            var message = messageInput
