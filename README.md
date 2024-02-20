@@ -69,3 +69,4 @@ i never forget
         function sendMessage() {
             var messageInput = document.getElementById("message-input");
             var message = messageInput
+            var message = messageInput
