@@ -62,8 +62,6 @@ i never forget
             <input type="text" id="message-input" placeholder="Type your message...">
             <button onclick="sendMessage()">Send</button>
         </div>
-    </div>
-
     <script>
         // JavaScript for handling chat functionality
         function sendMessage() {
