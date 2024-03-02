@@ -65,4 +65,3 @@ i never forget
     <script>
         // JavaScript for handling chat functionality
         function sendMessage() {
-            var messageInput = document.getElementById
