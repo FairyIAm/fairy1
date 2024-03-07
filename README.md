@@ -63,5 +63,3 @@ i never forget
             <button onclick="sendMessage()">Send</button>
         </div>
     <script>
-        // JavaScript for handling chat functionality
-        function sendMessage() {
