@@ -62,8 +62,3 @@ i never forget
             <input type="text" id="message-input" placeholder="Type your message...">
             <button onclick="sendMessage()">Send</button>
         </div>
-kinj;;;;;;;;;;;;kkhnnnnnnnnnnnnnnnnnnnnnnnnnnnnnhonkjljjjjjjjjjjjjjjjjjjjjjjjjjj
-''''''''';;;;;;;;;;;;;;l
-щиолитдитдлжтждьэж
-x[psp[lp[xl[
-pmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmweoooooooooooooooooooooooooooocpwwmmmmooooooooooooooooooooooooooooowmccccccccccccccccc
